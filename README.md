@@ -1,4 +1,4 @@
-# SFLambdaSample
+# Sample Lambda function to create a case in Salesforce
 
 ## Prework
 
